@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">56a19e05</string>
+    <string name="title">人脸识别技术</string>
+    <string name="checkonline">在线人脸检测</string>
+    <string name="checkoffline">离线人脸检测</string>
+    <string name="checkonvedio">动态人脸检测</string>
+    <string name="offlinetitle">离线人脸检测</string>
+    <string name="offline_pickphoto">选图</string>
+    <string name="offline_camera">拍照</string>
+    <string name="offline_checking">开始检测</string>
+    <string name="onlinecheck">在线人脸检测</string>
+    <string name="online_pickphoto">选图</string>
+    <string name="online_camera">拍照</string>
+    <string name="online_register">注册</string>
+    <string name="online_validation">验证</string>
+    <string name="online_checking">检测</string>
+    <string name="online_focus">聚焦</string>
+    <string name="vedio_checking">检测</string>
+    <string name="vedio_focus">聚焦</string>
+
+    <declare-styleable name="test">
+        <attr name="text" format="string" />
+        <attr name="testAttr" format="integer" />
+    </declare-styleable>
+
+</resources>
