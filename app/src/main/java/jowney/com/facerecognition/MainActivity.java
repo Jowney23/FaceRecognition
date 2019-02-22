@@ -41,6 +41,7 @@ public class MainActivity extends Activity {
         //amend
 
         //wo
+
         FragmentManager fm = getFragmentManager();
         FragmentTransaction transaction = fm.beginTransaction();
         irFragment = new IRFragment();
