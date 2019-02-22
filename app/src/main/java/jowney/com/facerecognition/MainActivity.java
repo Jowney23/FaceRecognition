@@ -37,6 +37,10 @@ public class MainActivity extends Activity {
         videoFragment = new VideoFragment();
         transaction.replace(R.id.content_video, videoFragment);
         transaction.commit();*/
+      //rest
+        //amend
+
+        //wo
         FragmentManager fm = getFragmentManager();
         FragmentTransaction transaction = fm.beginTransaction();
         irFragment = new IRFragment();
