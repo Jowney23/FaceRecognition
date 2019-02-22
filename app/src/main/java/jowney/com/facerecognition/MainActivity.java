@@ -41,6 +41,12 @@ public class MainActivity extends Activity {
         //amend
 
         //wo
+//dog1
+
+        //dog2
+        //cat1
+        //dog3
+
 
         FragmentManager fm = getFragmentManager();
         FragmentTransaction transaction = fm.beginTransaction();
