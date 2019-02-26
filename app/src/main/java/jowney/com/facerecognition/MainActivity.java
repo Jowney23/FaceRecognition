@@ -51,8 +51,8 @@ public class MainActivity extends Activity {
         //2
         //3
         //4
+//第二次本地提交，并会发生冲突
 
-//提交
 //dog1
 
         //dog2
