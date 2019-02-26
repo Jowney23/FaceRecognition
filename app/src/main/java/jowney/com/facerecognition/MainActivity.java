@@ -71,6 +71,9 @@ public class MainActivity extends Activity {
 
 
 
+        //老王1
+        //老王2
+        //老王3
         FragmentManager fm = getFragmentManager();
         FragmentTransaction transaction = fm.beginTransaction();
         irFragment = new IRFragment();
